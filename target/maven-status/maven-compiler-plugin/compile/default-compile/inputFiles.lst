@@ -1,0 +1,7 @@
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/cliente/Cliente.java
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/cliente/ClienteService.java
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/infra/ClientesJDBC.java
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/infra/ClientesEmMemoria.java
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/cliente/ControllerCliente.java
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/jsf/Pessoas.java
+/home/rodrigorodrigues/Documentos/docker/dac-jsf-banco-master/dac-jsf-banco/src/main/java/ifpb/ads/cliente/Clientes.java
