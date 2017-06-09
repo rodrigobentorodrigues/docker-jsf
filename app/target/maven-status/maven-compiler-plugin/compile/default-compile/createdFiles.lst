@@ -1,5 +1,5 @@
-ifpb/ads/infra/ClientesEmMemoria.class
 ifpb/ads/cliente/ControllerCliente.class
+ifpb/ads/infra/ClientesEmMemoria.class
 ifpb/ads/cliente/Cliente.class
 ifpb/ads/cliente/ClienteService.class
 ifpb/ads/infra/ClientesJDBC.class
